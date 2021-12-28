@@ -1,5 +1,0 @@
-com/example/lr_1_v_2/BuildConfig.java
- com.example.lr_1_v_2.BuildConfig
-com/example/lr_1_v_2/MainActivity.java
- com.example.lr_1_v_2.MainActivity
- com.example.lr_1_v_2.MainActivity$1
